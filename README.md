@@ -5,6 +5,8 @@ Please be weary that the application is hosted on a free platform, so the site w
 
 This project is was made by a team of 3 using agile for practice, and developed using React and Styled components Single Page Application, and Node + express integrating with MongoDB(Atlas)
 
+Also check out the frontend repositorie: [https://github.com/TeuPremium/A-forja-ecommerce-front/tree/main](https://github.com/TeuPremium/projeto15-a-forja-ecommerce-back)
+
 Here's a walkthrough of the website:
 
 ## Landing Page
